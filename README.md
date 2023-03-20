@@ -9,3 +9,4 @@ o polimorfismo com exemplos
 Analise seu código de acordo com os padrões do SOLID
 
 e fiz essa Loja para praticar os conceitos que vir duraane o curso
+não fiz uma intefacer, você só pode interagir com o código pelo terminal 
