@@ -1,4 +1,4 @@
-#loja de sapato feito em javascript orientado a objeto.
+##loja de sapato feito em javascript orientado a objeto.
 
 durante o curso de JavaScript: programação orientada a objetos da alura eu vir:
 os conceitos principais da orientação a objetos
